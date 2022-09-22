@@ -5,6 +5,6 @@ if a <4 :
 elif a==4:
     print("a is equal to 4")
 elif a > 4 & a < 7:
-    print(" yes")
+    print(" changement")
 else:
     print("a is superior than 4")
